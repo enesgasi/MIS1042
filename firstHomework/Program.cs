@@ -1,7 +1,9 @@
-﻿using System.ComponentModel.Design;
+﻿using System.ComponentModel;
+using System.ComponentModel.Design;
 
 namespace firstQuestion
 {
+    //•	Declare variables of the following data types: int, float, and string. Assign appropriate values to each variable and output their values using Console.WriteLine().
     internal class Program
     {
         static void Question_1()
@@ -19,6 +21,7 @@ namespace firstQuestion
 
 namespace secondQuestion
 {
+    //• Write a program that takes two integer inputs from the user and performs addition, subtraction, multiplication, and division operations on them.Display the results using Console.WriteLine().
     internal class Program
     {
         static void Question_2()
@@ -45,6 +48,7 @@ namespace secondQuestion
 
 namespace thirdQuestion
 {
+    //•	Create a program that accepts two numbers from the user, compares them using '==' and '!=' operators, and displays the results of the comparison using Console.WriteLine().
     internal class Program
     {
         static void Question_3()
@@ -77,6 +81,7 @@ namespace thirdQuestion
 
 namespace fourthQuestion
 {
+    //•	Write a program demonstrating the use of logical operators (AND, OR, and NOT) in an if statement. Use Console.WriteLine() to output the results.
     internal class Program
     {
         static void Question_4()
@@ -101,6 +106,7 @@ namespace fourthQuestion
 
 namespace fifthQuestion
 {
+    //•	Create a program that uses if-else statements to determine if a given number is positive, negative, or zero. Display the result using Console.WriteLine().
     internal class Program
     {
         static void Question_5()
@@ -129,6 +135,7 @@ namespace fifthQuestion
 
 namespace sixthQuestion
 {
+    //•	Write a program that accepts character input from the user and usess a switch statement to determine if the character is a vowel or a consonant. Display the result using Console.WriteLine().
     internal class Program
     {
         static void Question_6()
@@ -159,6 +166,7 @@ namespace sixthQuestion
 
 namespace seventhQuestion
 {
+    //•	Create a function called 'CalculateArea' that accepts the length and width of a rectangle as arguments and returns the area. Call this function from the main method and display the result using Console.WriteLine().
     internal class Program
     {
         static void Question_7()
@@ -177,6 +185,7 @@ namespace seventhQuestion
 
 namespace eighthQuestion
 {
+    //•	Write a program that demonstrates the use of nested if statements. For example, determine if a given number is divisible by 2 and 3, divisible by 2 or 3, or not divisible by either. Display the results using Console.WriteLine().
     internal class Program
     {
         static void Question_8()
@@ -206,6 +215,7 @@ namespace eighthQuestion
 
 namespace ninthQuestion
 {
+    //•	Write a program that uses a switch statement to display the name of a day based on its number (1-7). Use Console.WriteLine() to output the month's name.
     internal class Program
     {
         static void Question_9()
